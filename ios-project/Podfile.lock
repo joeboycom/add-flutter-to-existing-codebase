@@ -1,3 +1,28 @@
-PODFILE CHECKSUM: bbf6dfbfaf780be9c408de112d49aced9ca9ad72
+PODS:
+  - add_to_app_flutter_module (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - add_to_app_flutter_module (from `../add_to_app_flutter_module/.ios/Flutter`)
+  - Flutter (from `../add_to_app_flutter_module/.ios/Flutter/engine`)
+  - FlutterPluginRegistrant (from `../add_to_app_flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
+
+EXTERNAL SOURCES:
+  add_to_app_flutter_module:
+    :path: "../add_to_app_flutter_module/.ios/Flutter"
+  Flutter:
+    :path: "../add_to_app_flutter_module/.ios/Flutter/engine"
+  FlutterPluginRegistrant:
+    :path: "../add_to_app_flutter_module/.ios/Flutter/FlutterPluginRegistrant"
+
+SPEC CHECKSUMS:
+  add_to_app_flutter_module: ad0b0f1148cb5b269caa07efb9aa4734d53c93e6
+  Flutter: bdfa2e8fe0e2880a2c6a58a0b1a8675c262a07af
+  FlutterPluginRegistrant: 2afd5ea46d3a949472c9b7da6462d8fbf7d8b16e
+
+PODFILE CHECKSUM: f078daf40f08f2ee5b30ee98fc2e4d417ea8ba87
 
 COCOAPODS: 1.10.2

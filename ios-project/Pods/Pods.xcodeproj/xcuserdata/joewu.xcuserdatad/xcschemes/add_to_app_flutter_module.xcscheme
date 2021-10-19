@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2DDA1E4A98B0EC44DFD1311696BCB0EF"
-               BuildableName = "libPods-ios-project.a"
-               BlueprintName = "Pods-ios-project"
+               BlueprintIdentifier = "ED9900712B69136A5AFB9FA43398738B"
+               BuildableName = "add_to_app_flutter_module"
+               BlueprintName = "add_to_app_flutter_module"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
